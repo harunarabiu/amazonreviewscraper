@@ -19,7 +19,7 @@ HEADER = ( {'User-Agent' : 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKi
 # We define the URL for the Amazon product reviews we want to scrape. The URL may include filters based on star ratings or other criteria.
 
 #url = "https://www.amazon.co.uk/product-reviews/B00YT1IZTO/"
-url ="https://www.amazon.co.uk/product-reviews/B00M3IFUMK/"
+url ="https://www.amazon.co.uk/product-reviews/B00M3IFUMK"
 
 # Filter Definitions
 # We define a list of filters that we'll apply to the reviews. These filters allow us to collect reviews based on different criteria.
